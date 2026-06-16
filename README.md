@@ -1,4 +1,5 @@
 # React + TypeScript + Vite
+&emsp; (19.2.6) &emsp; &emsp; &emsp; &emsp; &emsp; (6.0.2)  &emsp; &emsp; &emsp; &ensp; &ensp; (8.0.12)
 
 # Harshith - Repository Analysis
 
